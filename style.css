@@ -42,7 +42,7 @@ body {
 
 .link-button {
   padding: 6px 25px;
-  background-image: linear-gradient(rgb(211, 74, 25), lightsalmon);
+  background-image: linear-gradient(orange, rgb(219, 35, 15));
   text-decoration: none;
   color: white;
   font-size: 1.2em;
